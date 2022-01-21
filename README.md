@@ -13,11 +13,16 @@ wins if she has placed five of her stones in a sequence, either horizontally, or
 One type of question encountered in the Test of English as a Foreign Language (TOEFL) is the “Synonym
 Question”, where students are asked to pick a synonym of a word out of a list of alternatives. For example:
 1. vexed (Answer: (a) annoyed)
+
 (a) annoyed
+
 (b) amused
+
 (c) frightened
+
 (d) excited
-This assignment isan intelligent system that can learn to answer questions like this one. In
+
+This assignment is an intelligent system that can learn to answer questions like this one. In
 order to do that, the system will approximate the semantic similarity of any pair of words. The semantic
 similarity between two words is the measure of the closeness of their meanings. For example, the semantic
 similarity between “car” and “vehicle” is high, while that between “car” and “flower” is low.
